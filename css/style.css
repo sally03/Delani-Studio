@@ -1,0 +1,62 @@
+.sec1{
+    background-image: url(../images/h_img.jpg);
+    background-size: cover;
+}
+.text-1{
+    text-align: center;
+   padding: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.sec2{
+    text-align: center;
+}
+.sec3{
+    background-image: url(../images/s_image.jpg);
+    text-align: center;
+    padding: 100px;
+    color: white;
+}
+.do{
+    text-align: center;
+}
+.prt{
+    text-align: center;
+}
+.sec6{
+    background-image: url(../images/c_image.jpg);
+    text-align: center;
+    /* opacity: 0.5; */
+    background-size: 100%;
+}
+#info{ background: transparent;
+    text-align: center;
+}
+.fort{
+    text-align: center;
+}
+#email,
+#name,
+#textarea{
+    background: transparent;
+    text-emphasis-color: white;
+}
+.col-md-3 :hover{
+    background-color: white;
+    cursor: pointer;
+    transition: ease;
+}
+#year{
+    text-align: center;
+}
+#des,
+#produ,
+#devl{
+    display: none;
+}
+
+
+
+
+
