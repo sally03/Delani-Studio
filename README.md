@@ -12,7 +12,7 @@
   * Portfolio ~ This is about our other projects
   * Contact us ~ Give us ur feedback
 ### REQUIREMENTS
-* For one to be able to access this webpage he or she must have an access to internet.
+* For one to be able to access this webpage he or she must have an access to internet
 #### TECHNOLOGIES USED
  * HTML - Used to give structure
  * CSS - Used to style the webpage
